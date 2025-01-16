@@ -1,6 +1,6 @@
-
+![logo] ()
 <h1 align="center">Hi 👋, I'm Jamil</h1>
-<h3 align="center">A passionate flutter and Python Developer</h3>
+<h3 align="center">A passionate Flutter and Python Developer</h3>
 <img align ="center"alt=""coding" width="400"src="https://www.google.com/imgres?q=animated%20coding%20gif&imgurl=https%3A%2F%2Fmedia0.giphy.com%2Fmedia%2Fua7vVw9awZKWwLSYpW%2Fgiphy.gif%3Fcid%3D790b7611lczo3lu8qo1rf6awkjsfla6kqci1rjqjefawl8wx%26ep%3Dv1_gifs_search%26rid%3Dgiphy.gif%26ct%3Dg&imgrefurl=https%3A%2F%2Fgiphy.com%2Fgifs%2Fpudgypenguins-computer-developer-binary-ua7vVw9awZKWwLSYpW&docid=okTX7thChwcr7M&tbnid=rhc6NSVZZKTU3M&vet=12ahUKEwj_6M_do_qKAxUHSaQEHccFIDcQM3oECGwQAA..i&w=480&h=480&hcb=2&ved=2ahUKEwj_6M_do_qKAxUHSaQEHccFIDcQM3oECGwQAA">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aljamiliton&label=Profile%20views&color=0e75b6&style=flat" alt="aljamiliton" /> </p>
@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Python and AI chatbot**
 
-- 🌱 I’m currently learning **Flutter,Python,Framer,Figma,Webflow**
+- 🌱 I’m currently learning **Flutter, Python, Framer, Figma, Webflow**
 
 - 👯 I’m looking to collaborate on **Flutter Chat App**
 
